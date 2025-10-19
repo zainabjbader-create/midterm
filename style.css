@@ -1,0 +1,19 @@
+* {
+  background:lightgrey;
+  margin:20px;
+  padding:5px;
+  font-family: arial; 
+  
+}
+
+table {
+  margin: 30px;
+  padding:20px;
+  width: 900px;
+}
+
+nav ul{
+  background: grey;
+  color:black;
+  
+}
